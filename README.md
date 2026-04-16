@@ -1,16 +1,25 @@
-## Hi there 👋
+# ML Iris Classification Project
 
-<!--
-**pavankotipalli/pavankotipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+This project demonstrates a simple machine learning model using the Iris dataset. It trains a Decision Tree classifier and evaluates its accuracy.
 
-Here are some ideas to get you started:
+## Features
+- Loads dataset from sklearn
+- Splits data into training and testing sets
+- Trains a Decision Tree model
+- Evaluates model accuracy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tech Stack
+- Python
+- Scikit-learn
+
+## How to Run
+1. Install dependencies:
+   pip install scikit-learn
+
+2. Run:
+   python model.py
+
+## Output
+The model prints accuracy score after training.
 -->
